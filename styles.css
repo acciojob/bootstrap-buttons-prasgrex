@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+#button-4{
+	width:55px;
+	height:25px;
+	text-align:center;
+	font-size:7px;
+}
+#button-5{
+	width:100%;
+}
